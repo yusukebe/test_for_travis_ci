@@ -2,7 +2,8 @@ package Dog;
 
 sub new {
     my $class = shift;
-    bless {}, $class;
+    my $self = bless {}, $class;
+    $self;
 }
 
 sub is_dog {
