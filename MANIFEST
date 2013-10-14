@@ -1,0 +1,5 @@
+.travis.yml
+Build.PL
+lib/Dog.pm
+MANIFEST			This list of files
+t/test.t

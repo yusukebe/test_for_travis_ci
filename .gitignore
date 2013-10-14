@@ -1,0 +1,7 @@
+blib/
+.build/
+_build/
+inc/
+Build
+!Build/
+Build.bat
