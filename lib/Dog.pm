@@ -11,7 +11,7 @@ sub is_dog {
 }
 
 sub bark {
-    return "ワン";
+    return "ワンワン";
 }
 
 1;
